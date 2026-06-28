@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671884374717",
+    "project_id": "pantrypal-fcf83",
+    "storage_bucket": "pantrypal-fcf83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671884374717:android:4deaf8b9c7133f7b813dd4",
+        "android_client_info": {
+          "package_name": "com.example.pantrypal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlwUiEINd1dpziVdX5Z132MDiHg199ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
